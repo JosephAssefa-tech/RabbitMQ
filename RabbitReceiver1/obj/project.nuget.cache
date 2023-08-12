@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wpgKOduF+ZFFnpWZLR24sVMiiU/3WkhQ9nxirDQpeSp/9n7geSDW9RXBSBz21wBMEM3cOdkntbyW021hu8faFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neba\\source\\repos\\RAbbitMQ\\RabbitReceiver1\\RabbitReceiver1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neba\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Neba\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Neba\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
